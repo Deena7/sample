@@ -33,4 +33,8 @@ System.out.println();
 //function calling  
 printPattern(n);  
 }  
-}  
+} 
+
+
+
+UPDATED LINE FOR JAVA
